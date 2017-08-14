@@ -1,0 +1,21 @@
+{
+  "name": "tutorialangular4",
+  "version": "1.0.0",
+  "description": "Mongoose tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "angular",
+    "4"
+  ],
+  "author": "Kateryna Levytska",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.6",
+    "socket.io": "^2.0.3"
+  }
+}
